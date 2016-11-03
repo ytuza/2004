@@ -1,0 +1,70 @@
+# depslib dependency file v1.0
+1477668866 source:c:\users\alumno-a\desktop\poli\main.cpp
+	<iostream>
+	"Polygon.h"
+
+1477669505 c:\users\alumno-a\desktop\poli\include\polygon.h
+	"PointArray.h"
+
+1477573036 c:\users\alumno-a\desktop\poli\include\point.h
+
+1477573036 source:c:\users\alumno-a\desktop\poli\src\point.cpp
+	<iostream>
+	"point.h"
+
+1477667064 source:c:\users\alumno-a\desktop\poli\src\polygon.cpp
+	"Polygon.h"
+
+1477573036 c:\users\alumno-a\desktop\poli\include\pointarray.h
+	"point.h"
+
+1477573036 source:c:\users\alumno-a\desktop\poli\src\pointarray.cpp
+	<iostream>
+	"PointArray.h"
+
+1478149710 source:c:\users\estela\desktop\poli\main.cpp
+	<iostream>
+	"Polygon.h"
+
+1478149644 c:\users\estela\desktop\poli\include\polygon.h
+	"PointArray.h"
+
+1477662372 c:\users\estela\desktop\poli\include\pointarray.h
+	"point.h"
+
+1477662372 c:\users\estela\desktop\poli\include\point.h
+
+1477662372 source:c:\users\estela\desktop\poli\src\point.cpp
+	<iostream>
+	"point.h"
+
+1477662372 source:c:\users\estela\desktop\poli\src\pointarray.cpp
+	<iostream>
+	"PointArray.h"
+
+1478149655 source:c:\users\estela\desktop\poli\src\polygon.cpp
+	"Polygon.h"
+
+1478182015 source:c:\users\alumno-d\desktop\poli\main.cpp
+	<iostream>
+	"Polygon.h"
+
+1478145210 c:\users\alumno-d\desktop\poli\include\polygon.h
+	"PointArray.h"
+
+1478145210 c:\users\alumno-d\desktop\poli\include\pointarray.h
+	"point.h"
+
+1478145210 c:\users\alumno-d\desktop\poli\include\point.h
+
+1478145210 source:c:\users\alumno-d\desktop\poli\src\point.cpp
+	<iostream>
+	"point.h"
+
+1478145224 source:c:\users\alumno-d\desktop\poli\src\pointarray.cpp
+	<iostream>
+	"PointArray.h"
+
+1478145222 source:c:\users\alumno-d\desktop\poli\src\polygon.cpp
+	"Polygon.h"
+
